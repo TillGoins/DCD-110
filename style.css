@@ -1,0 +1,42 @@
+
+       .good {
+    color:green;
+    }
+    .new {
+        background:orange
+    }
+       .relfection1{
+            position: relative;
+            left: 20px;
+            top: 20px;
+            background-color: lightblue;
+            width: 200px;
+
+        }
+        #page-title {
+            background-color: #f0f4ff; 
+            padding: 12px 16px; 
+            border-bottom: 3px solid #4b6bfb
+        }
+        .card {
+            width: 500px; 
+            height: 520px; 
+            padding: 12px; 
+            border: 1px solid #999; 
+            margin: 10px; 
+            background: #fafafa;
+            box-sizing: border-box;
+        }
+        .highlight {
+            border-color: #ff7a59; 
+            background: #fff2ed; 
+}
+.div2 {
+  width: 500px;
+  height: 260px;
+  padding: 50px;
+  border: 1px solid red;
+  margin: 10px; 
+            background: #fafafa;
+            box-sizing: border-box;
+}
